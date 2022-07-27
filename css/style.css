@@ -17,7 +17,8 @@ body {
   border: none;
   text-decoration: none;
   display: inline-block;
-  color: black;
+  /* color: black; */
+  color: white;
   border-radius: 5px;
   box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.4);
   transition: all 0.2s;
