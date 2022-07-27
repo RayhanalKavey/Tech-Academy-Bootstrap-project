@@ -17,7 +17,8 @@ body {
   border: none;
   text-decoration: none;
   display: inline-block;
-  border-radius: 4px;
+  color: black;
+  border-radius: 5px;
   box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.4);
   transition: all 0.2s;
 }
@@ -60,4 +61,11 @@ body {
       rgba(69, 68, 68, 0.7)
     ),
     url(../images/cover/cover-3.jpg);
+}
+/* ================
+   Courses section 
+   ================*/
+.courses {
+  box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.4);
+  border-radius: 10px;
 }
