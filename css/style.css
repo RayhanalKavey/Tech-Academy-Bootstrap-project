@@ -74,7 +74,8 @@ header nav {
 /* ================
    Courses section 
    ================*/
-.courses {
+.courses,
+.feedback-style {
   box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.4);
   border-radius: 10px;
 }
@@ -86,4 +87,8 @@ Footer section
   font-size: 1.4rem;
   background-color: gray;
   padding: 0.5rem;
+}
+.star-style {
+  color: goldenrod;
+  /* text-shadow: 0px 0px 5px rgba(0, 0, 0, 0.4); */
 }
